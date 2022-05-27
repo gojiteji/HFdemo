@@ -1,0 +1,1 @@
+# 5/27 Hugging Face HubにモデルをUPするデモ
